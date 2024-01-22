@@ -4,7 +4,7 @@ Este repositório contém uma página simples de links, com um perfil e uma list
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://blogger.googleusercontent.com/img/a/AVvXsEie5y60ADDQRcIgGF3EMkO8nRLXjb7BL9tUfIGYTWHCyqv5m4_BFHpmyybTlM-5ieII4q19xeSYf6aOYuXzJRCIF9VNc5vxCjBK3i3omK5ktb36OHBxIY06JyuUW18ceBf-8CTIEJYyxas8TqdJbEhoLxG2-bxbmWlQYFjyvnrCNokE57NgluLpev4wW-DQ)
+![Captura de Tela 1](https://blogger.googleusercontent.com/img/a/AVvXsEjHjVq0icaLZJbPAELQGdbBC4QV0lKP7jOMbTBv03F8Pp9Ahzq71LT79w5x2_JWhz-5hqS84MTJFJAxPkW1RElbtG-b_z1h_UOqxGfk93KrD5dkiDYhPU6IDnAQXJS1Wfz-pbQRJ3wI9xHv3ppsjZNQkrEW1FMOaYRiPIpcOsqAV3n7FwkuicH17w8Dans)
 
 
 ## Conteúdo
@@ -18,8 +18,10 @@ O projeto consiste em:
 
 ```plaintext
 .
+├── curriculo/
+│   ├── seu-curriculo.txt       # Arquivo de currículo tem que ser PDF
 ├── img/
-│   ├── Capturar.JPG       # Imagem de perfil
+│   ├── seu-perfil.png       # Imagem de perfil
 │   ├── icone.png          # Ícone para o favicon
 │   └── icones/            # Diretório com ícones das redes sociais
 │       ├── github.png
@@ -32,7 +34,7 @@ O projeto consiste em:
 │       └── x.png
 ├── index.html             # Arquivo HTML principal
 └── styles.css             # Arquivo CSS para estilização
-
+```
 
 ## Contribuindo
 
