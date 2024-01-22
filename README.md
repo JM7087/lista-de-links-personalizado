@@ -1,4 +1,4 @@
-# Lista de Links
+# Lista de Links Personalizados
 
 Este repositório contém uma página simples de links, com um perfil e uma lista de links para redes sociais e outras páginas.
 
